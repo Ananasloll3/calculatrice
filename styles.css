@@ -1,0 +1,170 @@
+body {
+    background-color: rgba(10, 10, 10, 0.959);
+}
+
+
+.resultat-main {
+    color: white;
+    text-align: right;
+    font-family: 'Oswald', sans-serif;
+    font-size:32pt;
+}
+
+.ancien {
+    font-size: 12pt;
+}
+
+
+
+.line1-1 {
+    background-color: rgb(180, 180, 180);
+    color: black;
+}
+
+.line1-2 {
+    background-color: rgb(180, 180, 180);
+    color: black;
+}
+
+.line1-3 {
+    background-color: rgb(180, 180, 180);
+    color: black;
+}
+
+.line1-4 {
+    background-color: orange;
+    color: white;
+}
+
+.line2-1 {
+    background-color: rgb(53, 53, 53);
+    color: white;
+}
+
+.line2-2 {
+    background-color: rgb(53, 53, 53);
+    color: white;
+}
+
+.line2-3 {
+    background-color: rgb(53, 53, 53);
+    color: white;
+}
+
+.line2-4 {
+    background-color: orange;
+    color: white;
+}
+
+.line3-1 {
+    background-color: rgb(53, 53, 53);
+    color: white;
+}
+
+.line3-2 {
+    background-color: rgb(53, 53, 53);
+    color: white;
+}
+
+.line3-3 {
+    background-color: rgb(53, 53, 53);
+    color: white;
+}
+
+.line3-4 {
+    background-color: orange;
+    color: white;
+}
+
+
+.line4-1 {
+    background-color: rgb(53, 53, 53);
+    color: white;
+}
+
+.line4-2 {
+    background-color: rgb(53, 53, 53);
+    color: white;
+}
+
+.line4-3 {
+    background-color: rgb(53, 53, 53);
+    color: white;
+}
+
+.line4-4 {
+    background-color: orange;
+    color: white;
+}
+
+.line5-1 {
+    background-color: rgb(53, 53, 53);
+    color: white;
+}
+
+.line5-2 {
+    background-color: rgb(53, 53, 53);
+    color: white;
+}
+
+.line5-3 {
+    background-color: orange;
+    color: white;
+}
+
+
+
+
+.boutton-calculatrice{
+    text-align: center;
+    display: block;
+    margin: 5;
+}
+
+.line1 button{
+    border-radius: 50px;
+    border-style: solid;
+    font-size:32pt;
+    border: 2px solid black;
+    font-family: 'Oswald', sans-serif;
+}
+
+.line2 button{
+    border-radius: 50px;
+    border-style: solid;
+    font-size:32pt;
+    border: 2px solid black;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.line3 button{
+    border-radius: 50px;
+    border-style: solid;
+    font-size:32pt;
+    border: 2px solid black;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.line4 button{
+    border-radius: 50px;
+    border-style: solid;
+    font-size:32pt;
+    border: 2px solid black;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.line5 button{
+    border-radius: 50px;
+    border-style: solid;
+    font-size:32pt;
+    border: 2px solid black;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 5px;
+    margin-right: 5px;
+}
